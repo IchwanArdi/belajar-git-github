@@ -1,0 +1,3 @@
+nama: ichwan ardianto
+umur: 21 tahun
+tempat tanggal lahir: purwokerto
