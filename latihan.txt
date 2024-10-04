@@ -1,3 +1,6 @@
 nama: ichwan ardianto
 umur: 21 tahun
 tempat tanggal lahir: purwokerto
+
+
+Kuliah di Universitas Amikom Purwokerto. Mengambil jurusan Teknologi Informasi, Dan sekarang lagi menempuh semester 5.
